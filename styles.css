@@ -1,0 +1,10 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+#intro {
+    background: url(Fox-TheUngraspableValueoftheWorldsLargestDiamond.jpg) ;
+    background-size: cover;
+}
