@@ -19,6 +19,8 @@ h2{
     min-height:300px;
 }
 footer{
+    bottom: 0;
+    height: 75px;
     background-color: rgb(56, 55, 55);
     color:whitesmoke
 }
