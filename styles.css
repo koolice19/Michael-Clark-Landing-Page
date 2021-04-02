@@ -1,10 +1,24 @@
-html,
-body,
-header,
-#intro {
-    height: 100%;
+body{
+    background-color: rgba(8, 8, 8, 0.973);
 }
-#intro {
-    background: url(Fox-TheUngraspableValueoftheWorldsLargestDiamond.jpg) ;
-    background-size: cover;
+p{
+    color:whitesmoke;
+}
+h2{
+    color:whitesmoke;
+}
+.bg-image{
+  background-image:linear-gradient(rgba(248, 245, 245, 0.5), rgba(8, 8, 8, 0.5)),url("Fox-TheUngraspableValueoftheWorldsLargestDiamond.jpg") ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height:300px;
+}
+#background{
+    min-height:300px;
+}
+footer{
+    background-color: rgb(56, 55, 55);
+    color:whitesmoke
 }
